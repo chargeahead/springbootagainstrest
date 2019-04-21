@@ -1,0 +1,4 @@
+1) Copy m5 project
+2) Remove templates
+3) Go ver item service
+4) Delete the old controller and create a new one @RestController is a combinataion of @Controller and @ResponseBody
